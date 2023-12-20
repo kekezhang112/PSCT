@@ -1,0 +1,15 @@
+enableTensorboard: True #
+test_during_training: True #
+
+exampletrainandtest:
+  datainfo: .\data\matexample_trainandtest.mat
+  srim_dir: .\example_dataset\trainandtest\disimgs\
+  hrim_dir: .\example_dataset\trainandtest\refimgs\
+  salim_dir: .\example_dataset\trainandtest\sal_disimgs\
+  train_ratio: 0.8
+
+  test_ratio: 0.2
+
+  shape_r: 384 # change as needed
+  shape_c: 512 # change as needed
+

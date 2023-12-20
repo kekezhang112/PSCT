@@ -1,0 +1,13 @@
+enableTensorboard: True #
+test_during_training: True #
+
+exampleonlyfortest:
+  datainfo: .\data\matexample_onlyfortest.mat
+  srim_dir: .\example_dataset\onlyfortest\disimgs\
+  hrim_dir: .\example_dataset\onlyfortest\refimgs\
+  salim_dir: .\example_dataset\onlyfortest\sal_disimgs\
+
+
+  shape_r: 384 # change as needed
+  shape_c: 512 # change as needed
+
