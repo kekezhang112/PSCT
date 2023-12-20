@@ -13,6 +13,8 @@ Run main_trainandtest.py
 ## 3. Test using a pre-trained model
 Run main_onlyfortest.py  
 The pre-trained PSCT models can be downloaded at [here](https://drive.google.com/drive/folders/1GprXj3dlXLaiFOzUUbEbuCkf8o1MjHwc)    
+
+
 If you use our code, or our work is useful for your research, please consider citing: 
 ```
 @ARTICLE{10355918,
