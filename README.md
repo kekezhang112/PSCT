@@ -12,8 +12,19 @@ For testing only, run ./preprocess/makemat_onlyfortest.m
 Run main_trainandtest.py
 ## 3. Test using a pre-trained model
 Run main_onlyfortest.py  
-The pre-trained PSCT models can be downloaded at [here](https://drive.google.com/drive/folders/1GprXj3dlXLaiFOzUUbEbuCkf8o1MjHwc)  
-
+The pre-trained PSCT models can be downloaded at [here](https://drive.google.com/drive/folders/1GprXj3dlXLaiFOzUUbEbuCkf8o1MjHwc)    
+If you use our code, or our work is useful for your research, please consider citing: 
+```
+@ARTICLE{10355918,
+  author={Zhang, Keke and Zhao, Tiesong and Chen, Weiling and Niu, Yuzhen and Hu, Jinsong and Lin, Weisi},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Perception-Driven Similarity-Clarity Tradeoff for Image Super-Resolution Quality Assessment}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3341626}}
+  ```  
 If you have questions, please contact kekezhang1102@163.com (recommend) or 201110007@fzu.edu.cn.
 ## Acknowledgments
 Code and data prepration largely benefits from [SGDNet](https://github.com/ysyscool/SGDNet) 
