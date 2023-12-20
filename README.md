@@ -29,4 +29,4 @@ If you use our code, or our work is useful for your research, please consider ci
   ```  
 If you have questions, please contact kekezhang1102@163.com (recommend) or 201110007@fzu.edu.cn.
 ## Acknowledgments
-Code and data prepration largely benefits from [SGDNet](https://github.com/ysyscool/SGDNet) 
+Code and data preparation benefit greatly from [SGDNet](https://github.com/ysyscool/SGDNet) 
